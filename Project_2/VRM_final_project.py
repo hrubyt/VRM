@@ -1,6 +1,6 @@
 # Project VRM
 # authors: Hruby Tomas, Ther Tomas, Rolny Jakub
-# modified code from Erwin Coumans https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/examples/inverse kinematics husky_kuka.py
+# modified code from Erwin Coumans https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/examples/inverse_kinematics_husky_kuka.py
 import pybullet as p
 import time
 import math
